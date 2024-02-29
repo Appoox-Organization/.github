@@ -1,6 +1,6 @@
 ## Appoox Company
 
-<img src="https://appoox.com/Files/Site/Images/no-image-jpgk1Je.png" alt="Appoox Logo" style="width: 25%; height: auto; display: block; margin: 20px auto;">
+<img src="https://appoox.com/Files/Site/Images/OG-Image.png" alt="Appoox Logo" style="width: 25%; height: auto; display: block; margin: 20px auto;">
 
 <section style="margin-bottom: 40px;">
 
